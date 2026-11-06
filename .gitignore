@@ -1,0 +1,12 @@
+﻿# C++ build artifacts
+cpp_core/build/
+*.o
+*.out
+
+# Python virtual environment & cache
+python_app/venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
+.idea/
